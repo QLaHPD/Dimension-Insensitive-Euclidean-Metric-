@@ -1,4 +1,4 @@
-# Dimension-Insensitive-Euclidean-Metric-
+# Dimension Insensitive Euclidean Metric
 Unofficial Torch implementation for the paper Dimension Insensitive Euclidean Metric (DIEM).<br><br/>
 
 Run diem_loss.py to test it, for now the output values for the orthogonal and normal tensors are not matching the proportions of the paper, I'm unsure if its related to the distribution of the Tensors.
